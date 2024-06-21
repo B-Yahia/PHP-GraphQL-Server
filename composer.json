@@ -1,0 +1,17 @@
+{
+    "name": "yahya/domain3",
+    "autoload": {
+        "psr-4": {
+            "Yahya\\Domain3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yahya",
+            "email": "yahiabahhous@gmail.com"
+        }
+    ],
+    "require": {
+        "webonyx/graphql-php": "^15.12"
+    }
+}

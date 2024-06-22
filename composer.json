@@ -1,17 +1,21 @@
 {
-    "name": "yahya/domain3",
-    "autoload": {
-        "psr-4": {
-            "Yahya\\Domain3\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "yahya",
-            "email": "yahiabahhous@gmail.com"
-        }
-    ],
-    "require": {
-        "webonyx/graphql-php": "^15.12"
+  "name": "yahya/domain3",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/",
+      "Config\\": "src/config/",
+      "Types\\": "src/types/",
+      "Schema\\": "src/schema/"
     }
+  },
+  "authors": [
+    {
+      "name": "yahya",
+      "email": "yahiabahhous@gmail.com"
+    }
+  ],
+  "require": {
+    "webonyx/graphql-php": "^15.12",
+    "vlucas/phpdotenv": "^5.6"
+  }
 }

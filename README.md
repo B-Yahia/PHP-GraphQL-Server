@@ -87,13 +87,12 @@ mutation DeletePost($id: Int!) {
 git clone https://github.com/B-Yahia/ReactJS-GraphQL.git
 cd ReactJS-GraphQL
 ```
+  3. You can try the deployment of the [frontend](https://blog-ql-1.netlify.app/)
 Update the API URL in src/GraphQL/apolloClient.js to point to the GraphQL server URL.
 ## Deployment
 
 The GraphQL API is deployed on my VPS and accessible at:
 [http://45.137.148.234:8083/](http://45.137.148.234:8083/)
-Or you can test the app directly 
-[https://blog-ql-1.netlify.app/](https://blog-ql-1.netlify.app/)
 
 ## Configuring a Virtual Host
 

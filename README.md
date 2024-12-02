@@ -92,6 +92,8 @@ Update the API URL in src/GraphQL/apolloClient.js to point to the GraphQL server
 
 The GraphQL API is deployed on my VPS and accessible at:
 [http://45.137.148.234:8083/](http://45.137.148.234:8083/)
+Or you can test the app directly 
+[https://blog-ql-1.netlify.app/](https://blog-ql-1.netlify.app/)
 
 ## Configuring a Virtual Host
 

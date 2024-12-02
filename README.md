@@ -12,8 +12,8 @@ This project is a GraphQL server implementation in PHP, it's an introduction to 
 
 1. Clone the repository and install dependencies:
 ```
-git clone https://github.com/B-Yahia/PHP-GraphQL-Server.git  
-cd PHP-GraphQL-Server   
+git clone https://github.com/B-Yahia/ecom-backend.git  
+cd   
 composer install  
 ```
 2. Create a MySQL database and run the SQL script in the file `src/Util/Database.sql` to create the required tables.
@@ -95,8 +95,8 @@ cd ReactJS-GraphQL
 
 ## Deployment
 
-The GraphQL API is deployed on my VPS and accessible at:
-[http://45.137.148.234:8083/](http://45.137.148.234:8083/)
+The GraphQL API is deployed on my VPS and accessible at: 
+  - [https://blog-ql-1.netlify.app/](https://blog-ql-1.netlify.app/)
 
 ## Configuring a Virtual Host
 

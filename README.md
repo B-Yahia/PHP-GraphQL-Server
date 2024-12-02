@@ -78,7 +78,9 @@ mutation DeletePost($id: Int!) {
 }
 
 ```
+
 ## Testing the API
+
   1. Postman:
     - Use the deployed API URL: [http://45.137.148.234:8083/](http://45.137.148.234:8083/).
   2. React App:
@@ -87,7 +89,8 @@ mutation DeletePost($id: Int!) {
 git clone https://github.com/B-Yahia/ReactJS-GraphQL.git
 cd ReactJS-GraphQL
 ```
-Update the API URL in src/GraphQL/apolloClient.js to point to the GraphQL server URL.
+  -Update the API URL in src/GraphQL/apolloClient.js to point to the GraphQL server URL.
+
   3. You can try the deployment of the [frontend](https://blog-ql-1.netlify.app/)
 
 ## Deployment
